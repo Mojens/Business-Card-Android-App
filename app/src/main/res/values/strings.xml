@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="profile_picture_description">Placeholder for profile picture</string>
+    <string name="profile_name">John Doe</string>
+    <string name="profile_title">Android Developer</string>
+    <string name="email_address"><a href="mailto:john_doe@gmail.com">Email: john_doe@gmail.com</a></string>
+    <string name="phone_number"><a href="tel:+4512345678">Phone: +45 12 34 56 78</a></string>
+    <string name="btn_text">Employment History</string>
+    <string name="btn_text_go_back">Go Back</string>
+    <string name="school_history">Education</string>
+</resources>
